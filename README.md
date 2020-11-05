@@ -1,6 +1,6 @@
 | CI | Release | 
 | --- | --- |
-| [![Build Status](https://travis-ci.org/tethys-json/tethys.svg?branch=master)](https://travis-ci.org/manatki/derevo) | [![Maven Central](https://img.shields.io/maven-central/v/com.tethys-json/tethys-core_2.13.svg)](https://search.maven.org/search?q=com.tethys-json.tethys-json) | 
+| [![Build Status](https://travis-ci.org/tethys-json/tethys.svg?branch=master)](https://travis-ci.org/tethys-json/tethys) | [![Maven Central](https://img.shields.io/maven-central/v/com.tethys-json/tethys-core_2.13.svg)](https://search.maven.org/search?q=com.tethys-json.tethys-json) | 
 
 # tethys
 tethys is a JSON parsing/writing library for Scala
