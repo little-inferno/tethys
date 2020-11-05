@@ -6,16 +6,12 @@ categories:
       - 'documentation'
   - title: 'Features'
     labels:
-      - 'feature'
+      - 'new feature'
       - 'enhancement'
+      - 'performance improvement'
   - title: 'Bug Fixes'
     labels:
-      - 'fix'
-      - 'bugfix'
       - 'bug'
-  - title: 'Maintenance'
-    labels:
-      - 'chore'
 exclude-labels:
   - 'skip-changelog'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
